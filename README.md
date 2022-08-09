@@ -1,4 +1,4 @@
-# POC-Projects
+# POC AI Projects
 
 ## Human gender and age prediction (CNN, Computer Vision)
 
